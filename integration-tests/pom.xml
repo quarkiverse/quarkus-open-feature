@@ -21,7 +21,7 @@
         </dependency>
         <dependency>
             <groupId>io.quarkiverse.open-feature</groupId>
-            <artifactId>quarkus-open-feature</artifactId>
+            <artifactId>quarkus-open-feature-core</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>

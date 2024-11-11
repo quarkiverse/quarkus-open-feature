@@ -17,7 +17,7 @@
         <!-- Make sure the doc is built after the other artifacts -->
         <dependency>
             <groupId>io.quarkiverse.open-feature</groupId>
-            <artifactId>quarkus-open-feature-deployment</artifactId>
+            <artifactId>quarkus-open-feature-core-deployment</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
